@@ -1,8 +1,10 @@
 # README
 
+## Tänkt för användning med ChatGPT eller likvärdig AI.
+
 ## Så använder du filen
 
-Det här dokumentet är tänkt att användas tillsammans med den bifogade `.md`-filen som styrdokument för ett hemsideprojekt.
+Det här dokumentet är tänkt att användas tillsammans med den uppladdade `.md`-filen som styrdokument för ett hemsideprojekt.
 
 ### 1. Starta en ny chat
 Använd filen i en ny konversation där fokus bara är hemsideprojektet.
